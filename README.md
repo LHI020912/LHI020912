@@ -1,25 +1,22 @@
-## FULLSTACK 개발자가 될 이혜인 입니다.
+## 👋 Hi, I'm Hyeyin
 
-<!--
-**LHI020912/LHI020912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+풀스택 개발자를 목표로 차근차근 공부 중인 주니어 개발자입니다.  
+React와 JavaScript를 중심으로 프로젝트를 만들며 성장하고 있습니다.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHI020912)](https://github.com/LHI020912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHI020912)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br><br>
-## 🧰 stack
+
+## 🧰 Stack
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) <br>
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📝 Learning
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
